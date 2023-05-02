@@ -1,7 +1,7 @@
 public class RewardValue {
 
-    public double cashValue;
-    public int milesValue;
+    private double cashValue;
+    private int milesValue;
     public RewardValue(double cashValue)
     {
         this.cashValue = cashValue;
